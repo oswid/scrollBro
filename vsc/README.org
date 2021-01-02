@@ -1,0 +1,20 @@
+Video Speed Controller 
+
+Config: 
+
+| funct           | key | speed |
+|-----------------+-----+-------|
+| shw/hide        | v   |     0 |
+| decrease speed  | s   |   0.1 |
+| increase speed  | h   |   0.1 |
+| rewind          | r   |    10 |
+| advance         | l   |     0 |
+| reset speed     | n   |     1 |
+| preferred speed | g   |     2 |
+
+
+Other: 
+
+| enable          | yes |
+|-----------------+-----|
+| control opacity | 0.3 |
