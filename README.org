@@ -1,1 +1,3 @@
-My browser environment for scrolling web
+* My browser environment for scrolling web
+  
+|refresh/******|newTab/findInTab|2*top/bottom|openUrl/openInNewTab|    |somethig/some|
