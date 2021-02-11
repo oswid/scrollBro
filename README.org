@@ -1,3 +1,5 @@
 * My browser environment for scrolling web
   
 
+vimium 
+video speed controller 
